@@ -6,5 +6,4 @@ Simple data collection tool used to log user data based on user input.
 3. All user data is logged to DATABASE.txt, this file can be found within the directory of the script. 
 
 # Why? 
-
-This tool isn't crazy cool, it was created mainly to work with classes so we'll say to improve my understanding of the python programming language. 
+Serves no real purpose, it's really just to improve my problem solving and programming skills. 
